@@ -1,4 +1,4 @@
-# 🧘‍♂️ Hi, I'm Vishwa — Enterprise & Solution Architect, AI Architect, and Yoga Practitioner
+# 🧘‍♂️ Hi, I'm Vishwa — Enterprise Solution Architect, AI Architect, and Yoga Practitioner
 
 I design modern, scalable, clean, and AI-driven systems with a deep emphasis on architecture discipline, clarity, and simplicity — all balanced through mindful living and yoga.
 
