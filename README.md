@@ -11,7 +11,7 @@ I specialize in **modernizing complex enterprise systems** using:
 - **Clean Architecture & DDD**
 - **gRPC, REST, API Gateways**
 - **Azure Cloud (App Services, Key Vault, SQL Server, AI Studio)**
-- **AI/LLMs (GPT, RAG, Assistants, embeddings)**
+- **AI/LLMs (GPT, RAG, MCP, Agents, and Assistants)**
 - **Blazor (Server + WASM) UI architecture**
 - **Event-Driven & Distributed Systems**
 - **Identity & Security Architecture**
