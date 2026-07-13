@@ -1,6 +1,8 @@
-# 🧘‍♂️ Hi, I'm Vishwa — AI & Enterprise Solution Architect and Yoga Practitioner
+# 🧘‍♂️ Hi, I'm Vishwa — AI Enterprise Solution Architect & Yoga Practitioner
 
-I design modern, scalable, and AI-enabled systems with a deep emphasis on architectural discipline, clarity, and simplicity—all balanced through mindful living and yoga.
+With over 25 years of experience in software engineering and enterprise architecture, I help organizations modernize complex systems through disciplined architecture, practical AI, and long-term technology strategy.
+
+I design secure, scalable, and future-ready platforms with a deep emphasis on clarity, maintainability, and simplicity—all balanced through mindful living and yoga.
 
 ---
 
@@ -9,9 +11,9 @@ I design modern, scalable, and AI-enabled systems with a deep emphasis on archit
 I specialize in **modernizing complex enterprise systems** using:
 
 - **Clean Architecture & DDD**
-- **gRPC, REST, API Gateways**
-- **Azure Cloud (App Service, Key Vault, SQL Server, Microsoft Foundry)**
-- **AI/LLMs (GPT, RAG, agents, MCP, evaluation, and orchestration)**
+- **REST, gRPC, GraphQL, SOAP, and API gateways**
+- **Azure & AWS cloud architecture, DevOps, and infrastructure as code**
+- **Enterprise AI (Azure AI Foundry, OpenAI APIs, GPT, RAG, agents, MCP, evaluation, and secure orchestration)**
 - **Blazor (Server + WASM) UI architecture**
 - **Event-Driven & Distributed Systems**
 - **Identity & Security Architecture**
@@ -25,7 +27,7 @@ I lead large-scale modernization initiatives where strong architecture, clean pa
 
 ### [Zenvera .NET Examples](https://github.com/VishwamKumar/zenvera.dotnet-examples)
 
-A curated .NET 10 reference-example monorepo for learning architectural and implementation trade-offs through working, side-by-side examples.
+A curated .NET 10 reference implementation monorepo for learning architectural and implementation trade-offs through working, side-by-side examples.
 
 It includes:
 
@@ -60,15 +62,15 @@ C4, HLDs, LLDs, flows, contracts — all first-class artifacts.
 
 ### **Balance through Yoga**
 
-I practice and teach Hatha Vinyasa, Laya-Kriya, and mindful movement—principles that shape my clarity and decision-making as an architect.
+I teach authentic yoga from a Tantric perspective, integrating body, breath, and awareness to support clarity, balance, and purposeful living—principles that also shape my work as an architect.
 
 ---
 
 ## 🌐 Websites & Projects
 
-- **[Personal portfolio and engineering articles](https://vishwa.me)**
-- **Zenvera:** enterprise architecture, AI, and .NET initiatives
-- **Vishwa Yoga:** mindful teaching and private wellness initiatives
+- **[Vishwa](http://www.vishwa.me):** enterprise architecture, modernization, and applied AI portfolio
+- **[Zenvera AI](http://www.zenvera.ai):** architecture-led enterprise modernization and AI-accelerated execution
+- **[Vishwa Yoga](http://www.vishwayoga.com):** authentic yoga from a Tantric perspective, with online classes and workshops
 
 ---
 
