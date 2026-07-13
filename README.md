@@ -1,6 +1,6 @@
-# 🧘‍♂️ Hi, I'm Vishwa — AI Enterprise Solution Architect, and Yoga Practitioner
+# 🧘‍♂️ Hi, I'm Vishwa — AI & Enterprise Solution Architect and Yoga Practitioner
 
-I design modern, scalable, clean, and AI-driven systems with a deep emphasis on architecture discipline, clarity, and simplicity — all balanced through mindful living and yoga.
+I design modern, scalable, and AI-enabled systems with a deep emphasis on architectural discipline, clarity, and simplicity—all balanced through mindful living and yoga.
 
 ---
 
@@ -10,8 +10,8 @@ I specialize in **modernizing complex enterprise systems** using:
 
 - **Clean Architecture & DDD**
 - **gRPC, REST, API Gateways**
-- **Azure Cloud (App Services, Key Vault, SQL Server, AI Studio)**
-- **AI/LLMs (GPT, RAG, MCP, Agents, and Assistants)**
+- **Azure Cloud (App Service, Key Vault, SQL Server, Microsoft Foundry)**
+- **AI/LLMs (GPT, RAG, agents, MCP, evaluation, and orchestration)**
 - **Blazor (Server + WASM) UI architecture**
 - **Event-Driven & Distributed Systems**
 - **Identity & Security Architecture**
@@ -21,48 +21,55 @@ I lead large-scale modernization initiatives where strong architecture, clean pa
 
 ---
 
-## 🧩 My GitHub Repository Structure
+## 🧩 Featured Open-Source Work
 
-My GitHub is intentionally organized into three professional categories: what you see here is public, other two are my private and research work.
+### [Zenvera .NET Examples](https://github.com/VishwamKumar/zenvera.dotnet-examples)
 
-### **1. `exp.` — Examples, Experiments, Patterns**
-Hands-on examples, API demos, auth patterns, architecture styles, and Blazor experiments.
+A curated .NET 10 reference-example monorepo for learning architectural and implementation trade-offs through working, side-by-side examples.
 
-Some of the sample repos:
-- `exp.rest-api.auth-styles`
-- `exp.graphql-api.styles`
-- `exp.grpc-api.clean-arch`
-- `exp.soap-api.styles`
-- `exp.infra.patterns`
-- `exp.grpc-api.clean-arch`
+It includes:
 
-Focused on clarity, learning, and demonstrating architectural options.
+- **API styles:** REST, gRPC, GraphQL, and SOAP
+- **Authentication:** API key, JWT, OAuth 2.0, ASP.NET Core Identity, Firebase, and mTLS
+- **Architecture:** three progressively structured Clean Architecture approaches
+- **Integration and infrastructure:** Ocelot, YARP, Redis, RabbitMQ, Azure Key Vault, Serilog, MongoDB, and SQL Server
+- **User interface:** a .NET MAUI client
+- **Engineering guidance:** architecture documentation, comparison matrices, learning paths, production considerations, and automated CI validation
+
+The repository brings previously independent examples together into one intentionally organized learning system. Its examples range from focused pattern demonstrations to complete architecture references without forcing every problem into the same structure.
+
+➡️ **[Explore the examples and recommended learning path](https://github.com/VishwamKumar/zenvera.dotnet-examples)**
 
 ---
 
 ## 🧱 What I Believe In
 
-### **Clean, consistent, intentional architecture**  
+### **Clean, consistent, intentional architecture**
+
 Simplicity > cleverness  
 Modularity > chaos  
 Design > accident
 
-### **AI as an accelerator, not a replacement**  
+### **AI as an accelerator, not a replacement**
+
 Architects who wield AI intelligently will outperform those who don’t.
 
-### **Documentation is design**  
+### **Documentation is design**
+
 C4, HLDs, LLDs, flows, contracts — all first-class artifacts.
 
-### **Balance through Yoga**  
-I practice and teach various styles of yoga including popular Hatha Vinyasa, Laya-Kriya, and mindful movement — these principles shape my clarity and decision-making as an architect.
+### **Balance through Yoga**
+
+I practice and teach Hatha Vinyasa, Laya-Kriya, and mindful movement—principles that shape my clarity and decision-making as an architect.
 
 ---
 
 ## 🌐 Websites & Projects
 
-- **Personal Portfolio:** https://vishwa.me  
-- **Fluent Blog:** Blazor + Fluent UI  
-- **Vishwa Yoga:** Mindful teaching (private projects)  
+- **[Personal portfolio and engineering articles](https://vishwa.me)**
+- **Zenvera:** enterprise architecture, AI, and .NET initiatives
+- **Vishwa Yoga:** mindful teaching and private wellness initiatives
+
 ---
 
 ## ✨ Outside of Tech
