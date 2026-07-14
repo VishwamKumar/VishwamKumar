@@ -70,7 +70,7 @@ I teach authentic yoga from a Tantric perspective, integrating body, breath, and
 
 - **[Vishwa](http://www.vishwa.me):** enterprise architecture, modernization, and applied AI portfolio
 - **[Zenvera AI](http://www.zenvera.ai):** architecture-led enterprise modernization and AI-accelerated execution
-- **[Vishwa Yoga](http://www.vishwayoga.com):** authentic yoga from a Tantric perspective, with online classes and workshops
+- **[Vishwa Yoga](http://www.vishwa.yoga):** authentic yoga from a Tantric perspective, with online classes and workshops
 
 ---
 
