@@ -1,4 +1,6 @@
-# 🧘‍♂️ Hi, I'm Vishwa — AI Enterprise Solution Architect & Yoga Practitioner
+# 🧘‍♂️ Hi, I'm Vishwa — Enterprise Architecture Lead
+
+**Enterprise AI Solutions Architect · Platform Modernization · Yoga Practitioner**
 
 With over 25 years of experience in software engineering and enterprise architecture, I help organizations modernize complex systems through disciplined architecture, practical AI, and long-term technology strategy.
 
@@ -24,6 +26,26 @@ I lead large-scale modernization initiatives where strong architecture, clean pa
 ---
 
 ## 🧩 Featured Open-Source Work
+
+### [Zenvera AI Examples](https://github.com/VishwamKumar/zenvera-ai-examples)
+
+A curated collection of .NET 10 learning references for building practical AI applications with `Microsoft.Extensions.AI` and the Microsoft AI ecosystem.
+
+It includes:
+
+- **AI foundations:** streaming chat, conversation history, and structured output
+- **RAG:** manual retrieval, `Microsoft.Extensions.DataIngestion`, SQLite, and Qdrant
+- **Agents and tools:** Microsoft Agent Framework and MCP-based tool integration
+- **Applied AI:** semantic search and grounded discovery added to an existing application
+- **Application architecture:** Blazor, ASP.NET Core, and .NET Aspire examples
+- **Provider flexibility:** Mock, Microsoft Foundry (Azure OpenAI), and Ollama
+- **Engineering guidance:** learning paths, provider comparisons, runbooks, automated builds, and tests
+
+The examples progress from focused AI patterns to layered applications while keeping provider configuration separate from application design.
+
+➡️ **[Explore the AI examples and recommended learning path](https://github.com/VishwamKumar/zenvera-ai-examples)**
+
+---
 
 ### [Zenvera .NET Examples](https://github.com/VishwamKumar/zenvera.dotnet-examples)
 
