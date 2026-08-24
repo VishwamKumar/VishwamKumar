@@ -2,7 +2,7 @@
 
 **Enterprise Architecture Strategy · Platform Modernization · Applied AI**
 
-With 30+ years in software engineering and 20+ years in architecture, I lead enterprise architecture strategy, governance, standards, technology roadmaps, and reusable architecture patterns.
+I lead enterprise architecture strategy, governance, standards, technology roadmaps, and reusable architecture patterns.
 
 My approach is pragmatic: introduce enough structure to improve decisions, consistency, and long-term maintainability without slowing delivery. I help organizations modernize complex systems and build secure, scalable platforms through disciplined architecture and practical AI.
 
