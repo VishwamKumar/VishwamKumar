@@ -1,27 +1,28 @@
 # 🧘‍♂️ Hi, I'm Vishwa — Enterprise Architecture Lead
 
-**Enterprise AI Solutions Architect · Platform Modernization · Yoga Practitioner**
+**Enterprise Architecture Strategy · Platform Modernization · Applied AI**
 
-With over 25 years of experience in software engineering and enterprise architecture, I help organizations modernize complex systems through disciplined architecture, practical AI, and long-term technology strategy.
+With 30+ years in software engineering and 20+ years in architecture, I lead enterprise architecture strategy, governance, standards, technology roadmaps, and reusable architecture patterns.
 
-I design secure, scalable, and future-ready platforms with a deep emphasis on clarity, maintainability, and simplicity—all balanced through mindful living and yoga.
+My approach is pragmatic: introduce enough structure to improve decisions, consistency, and long-term maintainability without slowing delivery. I help organizations modernize complex systems and build secure, scalable platforms through disciplined architecture and practical AI.
 
 ---
 
 ## 🚀 What I Do
 
-I specialize in **modernizing complex enterprise systems** using:
+My work spans **enterprise architecture and complex system modernization**, including:
 
 - **Clean Architecture & DDD**
 - **REST, gRPC, GraphQL, SOAP, and API gateways**
 - **Azure & AWS cloud architecture, DevOps, and infrastructure as code**
 - **Enterprise AI (Azure AI Foundry, OpenAI APIs, GPT, RAG, agents, MCP, evaluation, and secure orchestration)**
 - **Blazor (Server + WASM) UI architecture**
-- **Event-Driven & Distributed Systems**
+- **Event-driven & distributed systems**
 - **Identity & Security Architecture**
-- **Governance, standards, documentation, and architectural leadership**
+- **Architecture strategy, governance, standards, and technology roadmaps**
+- **Reusable architecture patterns, documentation, and architectural leadership**
 
-I lead large-scale modernization initiatives where strong architecture, clean patterns, and reliability are essential.
+I lead large-scale modernization initiatives where clear decisions, consistent patterns, and reliable delivery are essential.
 
 ---
 
