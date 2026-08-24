@@ -4,7 +4,7 @@
 
 I lead enterprise architecture strategy, governance, standards, technology roadmaps, and reusable architecture patterns.
 
-My approach is pragmatic: introduce enough structure to improve decisions, consistency, and long-term maintainability without slowing delivery. I help organizations modernize complex systems and build secure, scalable platforms through disciplined architecture and practical AI.
+I bring deep experience across software engineering and architecture to enterprise modernization, platform design, and applied AI. My approach is pragmatic: introduce enough structure to improve decisions, consistency, and long-term maintainability without slowing delivery. I help organizations modernize complex systems and build secure, scalable platforms through disciplined architecture and practical AI.
 
 ---
 
